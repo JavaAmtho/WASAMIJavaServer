@@ -42,7 +42,10 @@ To use WITHOUT MYSQL
 3. Open browser
 4. Type in http://localhost:1234/welcome
 
-
+=================================
+For even faster use:
+1. Open terminal and type:
+2. java -jar WAFSimpleHTTPServer.jar
 =================================
 BUILT IN DEPENDENCIES
 =================================
