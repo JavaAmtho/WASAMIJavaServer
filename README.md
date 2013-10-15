@@ -47,7 +47,7 @@ For even faster use:
 
 1. Open terminal and type:
 2. java -jar WAFSimpleHTTPServer.jar
-3. 
+
 =================================
 BUILT IN DEPENDENCIES
 =================================
