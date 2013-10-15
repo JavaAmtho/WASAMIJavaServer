@@ -6,7 +6,7 @@ Simple Java TCP/HTTP server wired for MYSQL and JSON replies
 Allows you to have a live server wired up for MYSQL, JSON, GET, POST 
 in under 2 minutes.
 
-=================================
+
 FEATURES
 =================================
 
@@ -18,7 +18,7 @@ This server is wired for you to:
 4. Listen for GET/POST requests of port 1234
 5. Send back a JSON response
 
-=================================
+
 QUICK START
 =================================
 To use WITH MYSQL:
@@ -48,14 +48,14 @@ For even faster use:
 1. Open terminal and type:
 2. java -jar WAFSimpleHTTPServer.jar
 
-=================================
+
 BUILT IN DEPENDENCIES
 =================================
 GSON
 Jetty
 JDBC
 
-=================================
+
 ABOUT
 =================================
 My team and I use this server for various mobile apps and web apps. It is very robust
