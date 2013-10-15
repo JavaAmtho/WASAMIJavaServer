@@ -51,9 +51,9 @@ For even faster use:
 
 BUILT IN DEPENDENCIES
 =================================
-GSON
-Jetty
-JDBC
+1. GSON
+2. Jetty
+3. JDBC
 
 
 ABOUT
