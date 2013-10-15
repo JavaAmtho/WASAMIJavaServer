@@ -50,3 +50,26 @@ GSON
 Jetty
 JDBC
 
+=================================
+ABOUT
+=================================
+My team and I use this server for various mobile apps and web apps. It is very robust
+and has served us well. We figured we could share it with the world because it took a long
+time to get right.
+
+We hope it helps everyone get their projects of the ground quickly by showing you how to
+use the JDBC driver to connect to MYSQL, and Jetty to actually handle the HTTP requests.
+We will add HTTPS support as soon as we can abstract our proprietary information from it
+and make it available for everyone.
+
+Server was built and contributed by William Falcon, Sam Frank, Michael Ben-Ami. All of us are studying Computer Science at Columbia University in New York.
+
+Enjoy!!
+
+=================================
+REAL USE
+=================================
+To see this server in action checkout these projects:
+Meal Idea iPhone App - http://itunes.com/apps/mealidea
+
+(If you use the server in a live product send me the name and link and we'll add your name here william@mealidea.com)
