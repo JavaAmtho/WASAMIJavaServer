@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="Dependencies/GSON/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-ajp-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-annotations-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-client-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-continuation-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-deploy-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-http-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-io-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-jmx-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-jndi-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-overlay-deployer-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-plus-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-policy-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-rewrite-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-security-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-server-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-servlet-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-servlets-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-util-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-webapp-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-websocket-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/jetty-xml-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="Dependencies/Jetty/servlet-api-3.0.jar"/>
+	<classpathentry kind="lib" path="Dependencies/JDBC/mysql-connector-java-5.1.25-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

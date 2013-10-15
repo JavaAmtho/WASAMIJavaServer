@@ -1,14 +1,9 @@
-WAF-Simple-JAVA-HTTP-MYSQL-Server
-=================================
-
-Simple Java TCP/HTTP server wired for MYSQL and JSON replies
-
 Allows you to have a live server wired up for MYSQL, JSON, GET, POST 
 in under 2 minutes.
 
-=================================
+******************************************************
 FEATURES
-=================================
+******************************************************
 
 This server is wired for you to:
 
@@ -18,9 +13,9 @@ This server is wired for you to:
 4. Listen for GET/POST requests of port 1234
 5. Send back a JSON response
 
-=================================
+******************************************************
 QUICK START
-=================================
+******************************************************
 To use WITH MYSQL:
 
 1. Create a MYSQL DB called Sample
@@ -34,7 +29,7 @@ To use WITH MYSQL:
 6. Open browser
 7. Type in http://localhost:1234/welcome
 
-=================================
+******************************************************
 To use WITHOUT MYSQL
 
 1. Import project into your favorite IDE
@@ -43,10 +38,9 @@ To use WITHOUT MYSQL
 4. Type in http://localhost:1234/welcome
 
 
-=================================
+******************************************************
 BUILT IN DEPENDENCIES
-=================================
+******************************************************
 GSON
 Jetty
 JDBC
-
