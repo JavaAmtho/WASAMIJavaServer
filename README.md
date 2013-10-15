@@ -1,4 +1,4 @@
-WAF-Simple-JAVA-HTTP-MYSQL-Server
+WAFJavaServer
 =================================
 
 Simple Java TCP/HTTP server wired for MYSQL and JSON replies
